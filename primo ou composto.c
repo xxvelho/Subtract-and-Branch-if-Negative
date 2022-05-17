@@ -4,7 +4,7 @@ num_inicial = **		        // ex: 7
 resto = num_inicial			// ex: 7
 divisor = num_inicial - 1		// ex: 7-1 = 6
 temp = 0
-one = 0
+one = 1
 aux = 0
 
 //Código:
