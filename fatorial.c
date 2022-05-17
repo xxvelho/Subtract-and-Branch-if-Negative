@@ -4,9 +4,9 @@ num = ***                     // numero pra calcular o fatorial
 temp = 0
 sum = 0
 one = 1
-loopSec =  ***                // depende de num
 fatorial = 0
 loop =  ***		      // depende de num
+loopSec =  ***                // depende de num
 aux = 0
 
 //Código:
@@ -33,7 +33,7 @@ aux = 0
 
 Obs: na linha 14 (num = fatorial) pra acumular as somas Ex: fatorial de 5 (5+5+5+5=20; 20+20+20=60; 60+60=120)
 Exemplos:
-Se num = 5, counter = 2, loop = 3;
-Se num = 7, counter = 4, loop = 6;
+Se num = 5, loop = 3, loopSec = 2;
+Se num = 7, loop = 6, loopSec = 4;
 
 */
