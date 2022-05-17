@@ -1,6 +1,6 @@
 Codigos salvos como "nome.c" apenas pra melhor visualização dos comentários.
 
-Não sou nenhum especialista na linguagem!!
+Não sou nenhum especialista nessa "pseudolinguagem".
 Era apenas uma prova de Arquitetura de Computadores.
 
 Um abraço!! ;)
