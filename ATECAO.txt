@@ -1,0 +1,6 @@
+Codigos salvos em "nome.c" apenas pra melhor visualização dos comentários.
+
+Não sou nenhum especialista na linguagem!!
+Era apenas uma prova de Arquitetura de Computadores.
+
+Um abraço!! ;)
