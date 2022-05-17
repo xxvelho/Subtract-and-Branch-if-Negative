@@ -4,7 +4,7 @@ num = ***                     // numero pra calcular o fatorial
 temp = 0
 sum = 0
 one = 1
-counter =  ***                // depende de num
+loopSec =  ***                // depende de num
 fatorial = 0
 loop =  ***		      // depende de num
 aux = 0
@@ -15,7 +15,7 @@ aux = 0
 2:   sbn aux, aux, 3          // aux = 0
 3:   sbn temp, num, 4         // temp = -num
 4:   sbn sum, temp, 5         // sum = -temp = -(-num) --> sum = num
-5:   sbn counter, one 8       // loop* secundario
+5:   sbn loopSec, one 8       // loop* secundario
 6:   sbn temp, temp, 7        // temp = 0
 7:   sbn temp, one, 1         // vai pra linha 1
 8:   sbn loop, one, exit      // loop* principal, exit
