@@ -1,3 +1,5 @@
+//Variaveis:
+
 num = ***                     // numero pra calcular o fatorial
 temp = 0
 sum = 0
@@ -6,6 +8,8 @@ counter =  ***                // depende de num
 fatorial = 0
 loop =  ***		      // depende de num
 aux = 0
+
+//Código:
 
 1:   sbn temp, temp, 2        // temp = 0
 2:   sbn aux, aux, 3          // aux = 0
