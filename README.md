@@ -8,4 +8,5 @@
 
 ## Compilador Web SBN
 > Caso você queira testar os códgos, ou até mesmo, criar seu próprio algoritmo.
-> Aqui está o link de um [CompiladorSBN-Web](https://vjrsz.github.io/CompiladorSBN-WEB/). Desenvolvido por [Valter Jr](https://github.com/vjrsz).
+> Aqui está o link de um [CompiladorSBN-Web](https://vjrsz.github.io/CompiladorSBN-WEB/v1/index.html). Desenvolvido por [Valter Jr](https://github.com/vjrsz).
+
